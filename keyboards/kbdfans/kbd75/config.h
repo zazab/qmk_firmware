@@ -29,6 +29,9 @@
 #define BACKLIGHT_LEVELS 5
 #endif
 
+#define PERMISSIVE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
+
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCING_DELAY 5
 
